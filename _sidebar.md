@@ -1,4 +1,4 @@
-* [About us](md/wst.md)
+* [About us](md/about_us.md)
     * [叶润](md/yr.md)
     * [翁诗彤](md/wst.md)
     * [李庆龄](md/lql.md)
