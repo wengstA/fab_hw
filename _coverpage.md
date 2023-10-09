@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](https://throwable-blog-1256189093.cos.ap-guangzhou.myqcloud.com/202009/_media/icon.svg)
 
 # docsify <small>3.5</small>
 
