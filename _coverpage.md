@@ -2,7 +2,7 @@
 
 ![logo](https://throwable-blog-1256189093.cos.ap-guangzhou.myqcloud.com/202009/_media/icon.svg)
 
-# 基因重组  <small>I</small>
+# 基因重组 I
 
 > 小组作品集
 
