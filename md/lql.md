@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" src="_media/1881696816037_.pic_hd.jpg" alt="李庆龄" style="border-radius:50%;">
+  <img width="150" src="https://github.com/wengstA/fab_hw/blob/main/_media/1881696816037_.pic_hd.jpg" alt="李庆龄" style="border-radius:50%;">
 </p>
 
 <h1 align="center">李庆龄</h1>
