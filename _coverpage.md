@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://github.com/wengstA/fab_hw/blob/main/_media/logo.jpg?raw=true)
+![logo](https://github.com/wengstA/fab_hw/blob/main/_media/logo-removebg-preview.png?raw=true)
 
 # 基因重组 I
 
