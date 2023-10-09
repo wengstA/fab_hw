@@ -2,13 +2,13 @@
 
 ![logo](https://throwable-blog-1256189093.cos.ap-guangzhou.myqcloud.com/202009/_media/icon.svg)
 
-# docsify <small>3.5</small>
+# 基因重组  <small>I</small>
 
-> 一个神奇的文档网站生成器。
+> 小组作品集
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- Inovativation
+- Knowledge
+- User-Centric
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/wengstA/fab_hw)
+[Get Started](https://wengsta.github.io/fab_hw/#/md/about_us)
